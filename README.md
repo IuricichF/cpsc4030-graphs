@@ -7,7 +7,7 @@ The scope of this exercise is to play with forces and force directed layout to c
 In the following chart we are using forces on simple objects. Right now, bubbles' positions is adjusted using forceCenter() while forceCollide() assumes all circles have radius 10.
 Change the function in `script-forces.js` in order to set a different force based on the bubble radius. The intended result is having no bubbles intersecting each other.
 
-Once you are satisfied with the result update your code on Github and add a screenshot of your result directly on the repository.
+Once you are satisfied with the result add a screenshot of your result directly in the working directory.
 
 ### Step 2
 
@@ -15,7 +15,7 @@ Uncomment the line `<!-- <script src="script-fdl.js"></script> -->` from your `i
 Here you will have to draw a network using a force directed layout. As a first step, read the information about your graph from the file `miserables.json`.
 Then, update the code following the `TODO` instructions.
 
-Once you are satisfied with the result update your code on Github and add a screenshot of your result directly on the repository.
+Once you are satisfied with the result add a screenshot of your result directly in the working directory
 
 ### Step 3
 
@@ -33,6 +33,6 @@ Take a look at the dataset first. You will notice a clear paret-child relationsh
 - Complete the reamining code following the `TODO` comments
 
 
-Once you are satisfied with the result update your code on Github and add a screenshot of your result directly on the repository.
+Once you are satisfied with the result add a screenshot of your result directly in the working directory
 
-As a final submission, upload on Gradescope the three visualizations obtained plus the javascript files you have modified.
+As a final submission, upload the zipped working directory on Canvas
